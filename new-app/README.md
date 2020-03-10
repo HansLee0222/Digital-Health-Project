@@ -16,11 +16,11 @@ You will also see any lint errors in the console.
 
 I used this to node package to create the tabs features
 
-### `Full Length`
+### `Full Length (No Scroll)`
 <img width="957" alt="WebPage" src="https://user-images.githubusercontent.com/56749667/76273208-92476880-623a-11ea-8c85-cd04f66adc26.png">
 
-### `Responsive Feature Iphone View`
+### `Responsive Feature Iphone View (Scrollable)`
 <img width="185" alt="WebPage1" src="https://user-images.githubusercontent.com/56749667/76273365-ec482e00-623a-11ea-9bb1-5aa1f234cd74.png">
 
-### `Responsive Feature Small View`
+### `Responsive Feature Small View (Scrollable)` 
 <img width="625" alt="WebPage2" src="https://user-images.githubusercontent.com/56749667/76273760-dc7d1980-623b-11ea-9c0f-06eb9e7fe399.png">
