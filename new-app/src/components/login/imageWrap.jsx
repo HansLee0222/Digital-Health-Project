@@ -22,50 +22,50 @@ export class ImageWrap extends React.Component {
 
             <div className='row' >
             <div className='column'>
-              <img className='p2' src={Phone7} />
-              <img className='Henry' src={Henry} />
-              <img className='p5' src={Phone5} />
-              <img className='Sam' src={Sam} />
-              <img className='p6' src={Phone6} />
-              <img className='Sam' src={Sam} />
+              <img className='p2' src={Phone7} alt = "background collage"/>
+              <img className='Henry' src={Henry} alt = "background collage" />
+              <img className='p5' src={Phone5} alt = "background collage"/>
+              <img className='Sam' src={Sam} alt = "background collage"/>
+              <img className='p6' src={Phone6} alt = "background collage"/>
+              <img className='Sam' src={Sam} alt = "background collage"/>
             </div>
             <div className='column'>
-              <img className='p6' src={Phone6} />
-              <img className='Dimas' src={Dimas} />
-              <img className='Sam' src={Sam} />
+              <img className='p6' src={Phone6} alt = "background collage"/>
+              <img className='Dimas' src={Dimas} alt = "background collage"/>
+              <img className='Sam' src={Sam} alt = "background collage"/>
             </div>
             <div className='column'>
-              <img className='p5' src={Phone5} />
-              <img className='SamL' src={SamL} />
-              <img className='p4' src={Phone4} />
-              <img className='Dimas' src={Dimas} />
+              <img className='p5' src={Phone5} alt = "background collage"/>
+              <img className='SamL' src={SamL} alt = "background collage"/>
+              <img className='p4' src={Phone4} alt = "background collage"/>
+              <img className='Dimas' src={Dimas} alt = "background collage"/>
             </div>
             <div className='column'>
-              <img className='p1' src={Phone1} />
-              <img className='Sam' src={Sam} />
-              <img className='Keatton' src={Keatton} />
-              <img className='p6' src={Phone6} />
-              <img className='Sam' src={Sam} />
+              <img className='p1' src={Phone1} alt = "background collage"/>
+              <img className='Sam' src={Sam} alt = "background collage"/>
+              <img className='Keatton' src={Keatton} alt = "background collage"/>
+              <img className='p6' src={Phone6} alt = "background collage"/>
+              <img className='Sam' src={Sam} alt = "background collage"/>
             </div>
             <div className='column'>
-              <img className='Alyssa' src={Alyssa} />
+              <img className='Alyssa' src={Alyssa} alt = "background collage"/>
 
-              <img className='p41' src={Phone4} />
-              <img className='p6' src={Phone6} />
-              <img className='Henry' src={Henry} />
-              <img className='p5' src={Phone5} />
+              <img className='p41' src={Phone4} alt = "background collage"/>
+              <img className='p6' src={Phone6} alt = "background collage"/>
+              <img className='Henry' src={Henry} alt = "background collage"/>
+              <img className='p5' src={Phone5} alt = "background collage"/>
 
-              <img className='Sam' src={Sam} />
-              <img className='Keatton' src={Keatton} />
+              <img className='Sam' src={Sam} alt = "background collage"/>
+              <img className='Keatton' src={Keatton} alt = "background collage"/>
             </div>
             <div className='column'>
-              <img className='Keatton' src={Keatton} />
-              <img className='p3' src={Phone3} />
-              <img className='SamL' src={SamL} />
-              <img className='p1' src={Phone1} />
-              <img className='Dimas' src={Dimas} />
-              <img className='Alyssa' src={Alyssa} />
-              <img className='p2' src={Phone2} />
+              <img className='Keatton' src={Keatton} alt = "background collage"/>
+              <img className='p3' src={Phone3} alt = "background collage"/>
+              <img className='SamL' src={SamL} alt = "background collage"/>
+              <img className='p1' src={Phone1} alt = "background collage"/>
+              <img className='Dimas' src={Dimas} alt = "background collage"/>
+              <img className='Alyssa' src={Alyssa} alt = "background collage"/>
+              <img className='p2' src={Phone2} alt = "background collage"/>
             </div>
 
           </div>
