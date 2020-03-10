@@ -17,5 +17,5 @@ You will also see any lint errors in the console.
 I used this to node package to create the tabs features
 
 
+<img width="957" alt="WebPage" src="https://user-images.githubusercontent.com/56749667/76273208-92476880-623a-11ea-8c85-cd04f66adc26.png">
 
-![Alt text](C:\Users\Hans Lee\Desktop\RESUME\WebPage.png?raw=true "Title")
