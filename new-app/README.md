@@ -1,17 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
 ### `npm install react-tabs`
 
 I used this to node package to create the tabs features
@@ -30,8 +16,9 @@ I used this to node package to create the tabs features
 
 ### `Back End Basic Form Submition using OnChange` 
 <img width="462" alt="Basic Form Submit" src="https://user-images.githubusercontent.com/56749667/76462186-79f05e80-639e-11ea-9eaa-05fb0b6b03ac.png">
+(Viewed on React Dev Tool via Chrome Extentions)
 
 ### `Back End Basic Form Submition using OnSubmit` 
 <img width="368" alt="Basic Form Submit2" src="https://user-images.githubusercontent.com/56749667/76462290-a86e3980-639e-11ea-91ac-995671ee36c1.png">
-
+(Viewed on Console)
 
