@@ -25,7 +25,7 @@ export class Login extends React.Component {
 
         });
     }
-    handleSubmit(e){
+    handleSubmit(e) {
         e.preventDefault();
         console.log("User name and Password: ");
         console.log(this.state)
@@ -34,22 +34,22 @@ export class Login extends React.Component {
         return (
             <div className='base-container' ref={this.props.containerRef}>
                 <div className='header'>Login</div>
-                <form onSubmit = {this.handleSubmit} className='content'>
+                <form onSubmit={this.handleSubmit} className='content'>
 
                     <div className='form'>
                         <div className='form-group'>
                             <label htmlFor="username">Username/Email</label>
-                            <input type="text" name='username' value = {this.state.username} onChange = {this.handleChange} placeholder='username' />
+                            <input type="text" name='username' value={this.state.username} onChange={this.handleChange} placeholder='username' />
                         </div>
                         <div className='form-group'>
                             <label htmlFor="password">Password</label>
-                            <input type="password" name='password' value = {this.state.password} onChange = {this.handleChange}placeholder='password' />
+                            <input type="password" name='password' value={this.state.password} onChange={this.handleChange} placeholder='password' />
                         </div>
                     </div>
                     <div className='footer'>
-                    <button type='submit' id = 'lgn'className='btn'>Login</button>
-                </div>
-               
+                        <button type='submit' id='lgn' className='btn'>Login</button>
+                    </div>
+
                 </form>
             </div>
 

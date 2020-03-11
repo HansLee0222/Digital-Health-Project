@@ -8,8 +8,6 @@ export class Register extends React.Component {
         this.state = {
             username: '',
             password: ''
-
-
         };
         this.handleChange = this.handleChange.bind(this);
         this.handleSubmit = this.handleSubmit.bind(this);
@@ -25,7 +23,7 @@ export class Register extends React.Component {
 
         });
     }
-    handleSubmit(e){
+    handleSubmit(e) {
         e.preventDefault();
         console.log("User name and Password: ");
         console.log(this.state)
@@ -33,25 +31,25 @@ export class Register extends React.Component {
 
     render() {
         return (
-            <div   className='base-container' ref={this.props.containerRef}>
+            <div className='base-container' ref={this.props.containerRef}>
                 <div className='header'>Register</div>
-                <form onSubmit = {this.handleSubmit} className='content'>
+                <form onSubmit={this.handleSubmit} className='content'>
 
                     <div className='form' >
                         <div className='form-group'>
                             <label htmlFor="username">Username/Email</label>
-                            <input type="text" name='username' value = {this.state.username} onChange = {this.handleChange} placeholder='username' />
+                            <input type="text" name='username' value={this.state.username} onChange={this.handleChange} placeholder='username' />
                         </div>
                         <div className='form-group'>
                             <label htmlFor="password">Password</label>
-                            <input type="password" name='password' value = {this.state.password} onChange = {this.handleChange}placeholder='password' />
+                            <input type="password" name='password' value={this.state.password} onChange={this.handleChange} placeholder='password' />
                         </div>
                         <div className='footer'>
-                        
-                    </div>
 
-                    <button type='submit' className='btn'>Join Us Now!</button>
-                </div>
+                        </div>
+
+                        <button type='submit' className='btn'>Join Us Now!</button>
+                    </div>
                 </form>
 
             </div>
